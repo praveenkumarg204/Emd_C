@@ -16,20 +16,14 @@
  * @brief Initialize all the Peripherals and pin configurations
  * 
  */
-void peripheral_init(void)
-{
+
+int main(void){
+
 	/* Configure LED Pin */
 	DDRB |= (1 << PB1);
 	DDRB &= (1 << PD0);
 	DDRB &= (1 << PD1);
 	
-}
-
-int main(void)
-{
-	/* Initialize Peripherals */
-	peripheral_init();
-
 	while(1)
 	{
         if( !(PIND&(1<<PD0)) && !(PIND&(1<<PD1)) ) {
