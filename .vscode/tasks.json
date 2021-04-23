@@ -8,10 +8,7 @@
             "type": "shell",
             "command": "make",
             "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "group": "build"
         },
         {
             "label": "Analyse",
@@ -19,7 +16,7 @@
             "command": "make analysis",
             "problemMatcher": [],
             "group": {
-                "kind": "test",
+                "kind": "build",
                 "isDefault": true
             }
         },
@@ -28,10 +25,7 @@
             "type": "shell",
             "command": "make -C documentation",
             "problemMatcher": [],
-            "group": {
-                "kind": "test",
-                "isDefault": true
-            }
+            "group": "build"
         },
         {
             "label": "Clean",
