@@ -27,7 +27,6 @@ void change_led_state(uint8_t state)
 	LED_PORT = (state << LED_PIN);
 }
 
-
 /**
  * @brief Main function where the code execution starts
  * 

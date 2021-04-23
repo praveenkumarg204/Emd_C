@@ -20,5 +20,4 @@
 #define LED_PORT (PORTB)    /**< LED Port Number */
 #define LED_PIN  (PORTB0)   /**< LED Pin number  */
 
-
 #endif /* __PROJECT_CONFIG_H__ */

@@ -10,7 +10,6 @@
  * @copyright Copyright (c) 2021
  * 
  */
-
 /**
  * Macro Definitions
  */
