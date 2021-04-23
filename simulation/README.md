@@ -5,11 +5,13 @@
 |\image html ON.png||
 ## Code 
 ```
-	for(;;)
+	while(1)
 	{
-        change_led_state(HIGH);
-		delay_ms(LED_ON_TIME);
-        change_led_state(LOW);
-		delay_ms(LED_OFF_TIME);	
+        if( !(PIND&(1<<PD0)) && !(PIND&(1<<PD1)) ) {
+			PORTB |= (1<<PB1);
+		}
+		else{
+			PORTB &= ~(1<<PB1);
+		}
 	}
 ```
