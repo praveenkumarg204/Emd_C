@@ -12,7 +12,6 @@
 
 #include "user_utils.h"
 #include "blinky.h"
-
 /**
  * @brief Initialize all the Peripherals and pin configurations
  * 
