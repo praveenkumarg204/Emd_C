@@ -3,7 +3,6 @@
 |ON|OFF|
 |:--:|:--:|
 |\image html ON.png||
-
 ## Code 
 ```
 	for(;;)
