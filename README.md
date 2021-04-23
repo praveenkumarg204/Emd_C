@@ -12,4 +12,4 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/praveenkumarg204/Emd_C/actions/workflows/Compile.yml/badge.svg)](https://github.com/praveenkumarg204/Emd_C/actions/workflows/Compile.yml)|
+|[![Compile-Linux](https://github.com/praveenkumarg204/Emd_C/actions/workflows/Compile.yml/badge.svg)](https://github.com/praveenkumarg204/Emd_C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/praveenkumarg204/Emd_C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/praveenkumarg204/Emd_C/actions/workflows/CodeQulaity.yml)|
