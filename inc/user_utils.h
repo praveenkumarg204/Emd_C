@@ -19,6 +19,4 @@
  * @param[in] delay_time Delay in Micro seconds
  * 
  */
-void delay_ms(uint32_t delay_time);
-
 #endif /* __USER_UTILS_H__ */
