@@ -2,7 +2,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/ON.PNG)|![OFF](simulation/OFF.PNG)|
+|![ON](ON.PNG)|![OFF](OFF.PNG)|
 ## Code 
 ```
 	while(1)
