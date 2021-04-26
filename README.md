@@ -1,5 +1,5 @@
-# Embedded C Programming Examples with Continuous Integration and Code Quality
-# LED Blinking 
+# Activity_1
+# LED Blinking for Two sensing input
 ## In Action
 |ON|OFF|
 |:--:|:--:|
