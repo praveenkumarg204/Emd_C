@@ -1,5 +1,5 @@
 # Activity_1
-# LED Blinking for Two sensing input
+# LED Blinking for Two Sensing Input
 ## In Action
 |ON|OFF|
 |:--:|:--:|
