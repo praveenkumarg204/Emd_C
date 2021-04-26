@@ -2,7 +2,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|\image html ON.png|\image html OFF.png|
+|![ON](simulation/ON.PNG)|\image html OFF.png|
 ## Code 
 ```
 	while(1)
