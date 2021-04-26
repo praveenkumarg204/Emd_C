@@ -2,7 +2,7 @@
 # LED Blinking 
 ## In Action
 |ON|OFF|
-|--:|:--:|
+|::|:--:|
 |![ON](simulation/ON.PNG)|![OFF](simulation/ON.PNG)|
 #### CI and Code Quality
 
