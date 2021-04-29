@@ -1,12 +1,12 @@
 # Activity_1
 # LED Blinking for Two Sensing Input
-## In Action
+## Action
 |ON|OFF|
 |:--:|:--:|
 |![ON](simulation/Activity_1/ON.PNG)|![OFF](simulation/Activity_1/OFF.PNG)|
 # Activity_2
 # ADC
-## In Action
+## Action
 |ADC|
 |:--:|
 |![ON](simulation/Activity_1/ON.PNG)|
