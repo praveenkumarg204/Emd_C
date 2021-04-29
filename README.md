@@ -2,7 +2,8 @@
 
 <h1>LED Blinking for Two Sensing Input</h1>
 
-## Action
+<h2>Action</h2>
+
 |ON|OFF|
 |:--:|:--:|
 |![ON](simulation/Activity_1/ON.PNG)|![OFF](simulation/Activity_1/OFF.PNG)|
@@ -11,12 +12,13 @@
 
 <h1>ADC</h1>
 
-## Action
+<h2>Action</h2>
+
 |ADC|
 |:--:|
 |![ON](simulation/Activity_1/ON.PNG)|
 
-#### CI and Code Quality
+<h3>CI and Code Quality</h3>
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
