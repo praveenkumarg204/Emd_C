@@ -6,7 +6,7 @@
 |![ON](simulation/Activity_1/ON.PNG)|
 
 ## Code
-''' void initADC(){
+void initADC(){
     ADMUX = (1<<REFS0);//aref connected to AVCC
     ADCSRA = (1<<ADEN) | (1<<ADPS0) | (1<<ADPS1) | (1<<ADPS2);// ADEN=1 => enable ADC; division factor=128
 }
@@ -21,5 +21,5 @@ uint16_t readADC(uint8_t channel){
     return (ADC);//return the result
 }
 
-'''
+
 
