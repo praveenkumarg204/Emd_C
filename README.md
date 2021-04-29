@@ -6,8 +6,11 @@
 |ON|OFF|
 |:--:|:--:|
 |![ON](simulation/Activity_1/ON.PNG)|![OFF](simulation/Activity_1/OFF.PNG)|
-# Activity_2
-# ADC
+
+<h1>Activity_2</h1>
+
+<h1>ADC</h1>
+
 ## Action
 |ADC|
 |:--:|
