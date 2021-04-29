@@ -1,13 +1,9 @@
-# Embedded C Programming Examples with Continuous Integration and Code Quality
-
-# LED Blinking 
-
+# Activity_1
+# LED Blinking for Two Sensing Input
 ## In Action
-
 |ON|OFF|
 |:--:|:--:|
-|!|!|
-
+|![ON](simulation/ON.PNG)|![OFF](simulation/OFF.PNG)|
 #### CI and Code Quality
 
 |Build|Cppcheck|Codacy|
