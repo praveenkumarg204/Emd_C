@@ -4,7 +4,11 @@
 |ON|OFF|
 |:--:|:--:|
 |![ON](simulation/Activity_1/ON.PNG)|![OFF](simulation/Activity_1/OFF.PNG)|
-# Activity_1
+# Activity_2
+# ADC
+# In Action
+![ON](simulation/Activity_1/ON.PNG)
+
 #### CI and Code Quality
 
 |Build|Cppcheck|Codacy|
