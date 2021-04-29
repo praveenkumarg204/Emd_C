@@ -3,7 +3,7 @@
 ## In Action
 |ADC|
 |:--:|
-|![ADC](simulation/Activity_2/ADC.PNG)|
+|![ADC](ADC.PNG)|
 
 ## Code
 ``` 
