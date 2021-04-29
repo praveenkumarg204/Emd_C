@@ -1,4 +1,5 @@
-# Blinky Project In Action
+# Activity_1
+# LED Blinking for Two Sensing Input
 
 |ON|OFF|
 |:--:|:--:|
