@@ -1,11 +1,15 @@
-# Activity_2
-# ADC
-## Action
+<h1>Activity_2</h1>
+
+<h1>ADC</h1>
+    
+<h2>Action</h2>
+    
 |ADC|
 |:--:|
 |![ADC](ADC.PNG)|
 
-## Code
+<h2>Code</h2>
+
 ``` 
     void initADC(){
     ADMUX = (1<<REFS0);//aref connected to AVCC
