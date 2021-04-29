@@ -1,9 +1,13 @@
-# Blinky Project In Action
+<h1>Activity_1</h1>
+
+<h1>LED Blinking for Two Sensing Input</h1>
 
 |ON|OFF|
 |:--:|:--:|
 |![ON](ON.PNG)|![OFF](OFF.PNG)|
-## Code 
+
+<h2>Code</h2>
+
 ```
 	while(1)
 	{

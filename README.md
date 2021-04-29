@@ -1,10 +1,24 @@
-# Activity_1
-# LED Blinking for Two Sensing Input
-## In Action
+<h1>Activity_1</h1>
+
+<h1>LED Blinking for Two Sensing Input</h1>
+
+<h2>Action</h2>
+
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/ON.PNG)|![OFF](simulation/OFF.PNG)|
-#### CI and Code Quality
+|![ON](simulation/Activity_1/ON.PNG)|![OFF](simulation/Activity_1/OFF.PNG)|
+
+<h1>Activity_2</h1>
+
+<h1>ADC</h1>
+
+<h2>Action</h2>
+
+|ADC|
+|:--:|
+|![ON](simulation/Activity_1/ON.PNG)|
+
+<h3>CI and Code Quality</h3>
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
