@@ -1,6 +1,6 @@
 # Activity_2
 # ADC
-## In Action
+## Action
 |ADC|
 |:--:|
 |![ADC](ADC.PNG)|
