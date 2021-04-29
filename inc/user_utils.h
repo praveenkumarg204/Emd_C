@@ -12,6 +12,7 @@
  */
 #include "project_config.h"
 #include <util/delay.h>
+#include <avr/interrupt.h>
 
 /**
  * @brief Function to generate delay in micro seconds

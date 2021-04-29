@@ -1,5 +1,5 @@
-#ifndef __BLINKY_H_
-#define __BLINKY_H_
+#ifndef __AVR_H_
+#define __AVR_H_
 /**
  * @file blinky.h
  * @author Praveen Kumar G
@@ -26,4 +26,4 @@
  */
 
 
-#endif /** __BLINKY_H_ */
+#endif /** __AVR_H_ */
