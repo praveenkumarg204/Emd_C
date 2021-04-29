@@ -7,6 +7,7 @@
 # Activity_2
 # ADC
 ## In Action
+|Action|
 |:--:|
 |![ON](simulation/Activity_1/ON.PNG)|
 
