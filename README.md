@@ -4,6 +4,7 @@
 |ON|OFF|
 |:--:|:--:|
 |![ON](simulation/Activity_1/ON.PNG)|![OFF](simulation/Activity_1/OFF.PNG)|
+# Activity_1
 #### CI and Code Quality
 
 |Build|Cppcheck|Codacy|
