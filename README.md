@@ -3,7 +3,7 @@
 ## In Action
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/Activity_1/ON.PNG)|![OFF]simulation/Activity_1/OFF.PNG)|
+|![ON](simulation/Activity_1/ON.PNG)|![OFF](simulation/Activity_1/OFF.PNG)|
 #### CI and Code Quality
 
 |Build|Cppcheck|Codacy|
