@@ -15,7 +15,7 @@
  * @brief Initialize all the Peripherals and pin configurations
  * 
  */
-int control(void){
+int control(){
 	
 	//port configure
     DDRB |=(1<<PB0);
