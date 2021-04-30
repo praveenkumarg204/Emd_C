@@ -18,6 +18,16 @@
 |:--:|
 |![ON](simulation/Activity_1/ON.PNG)|
 
+<h1>Activity_3</h1>
+
+<h1>Pulse Width Modulation with Timer</h1>
+
+<h2>Action</h2>
+
+|Timer_PWM|
+|:--:|
+|![](simulation/Activity_3/Timer_PMW.PNG)|
+
 <h3>CI and Code Quality</h3>
 
 |Build|Cppcheck|Codacy|
