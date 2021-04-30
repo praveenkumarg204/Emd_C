@@ -10,7 +10,7 @@
 
 <h2>Code</h2>
 
-``` 
+
     void initADC(){
     ADMUX = (1<<REFS0);//aref connected to AVCC
     ADCSRA = (1<<ADEN) | (1<<ADPS0) | (1<<ADPS1) | (1<<ADPS2);// ADEN=1 => enable ADC; division factor=128
@@ -25,7 +25,7 @@
         while(!(ADCSRA & (1<<ADIF)));//wait until the conversion is done
     return (ADC);//return the result
    }
-```
+
 
 
 
