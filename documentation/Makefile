@@ -1,4 +1,4 @@
-DOXY_FILE = Case Study
+DOXY_FILE = Emd_Project
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
