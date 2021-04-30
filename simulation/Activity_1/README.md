@@ -8,7 +8,6 @@
 
 <h2>Code</h2>
 
-
    while(1){
    
         if( !(PIND&(1<<PD0)) && !(PIND&(1<<PD1)) ) {
@@ -17,5 +16,5 @@
 		else{
 			PORTB &= ~(1<<PB1);
 		}
-  }
+   }
 
