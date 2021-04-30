@@ -1,4 +1,4 @@
-<h1>project is designed in such a way that if a person is seated on a automotive vehicle, he/she can control the temprature of the seat</h1>
+<h1>Project is designed in such a way that if a person is seated on a automotive vehicle, he/she can control the temprature of the seat</h1>
 
 <h1>Activity_1</h1>
 
