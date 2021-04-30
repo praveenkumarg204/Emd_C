@@ -4,8 +4,6 @@
 
 <h2>Action</h2>
 
-|:-:|
-
-|PWM_Timer|
-
-|![](TimerPWM.PNG)|
+|Timer_PWM|
+|:--:|
+|![](Timer_PMW.PNG)|
