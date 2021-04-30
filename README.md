@@ -30,6 +30,16 @@
 |:--:|
 |![](simulation/Activity_3/Timer_PMW.PNG)|
 
+<h1>Activity_4</h1>
+
+<h1>USART</h1>
+
+<h2>Action</h2>
+
+|USART|
+|:--:|
+|![ON](simulation/Activity_4/USART.PNG)|
+
 <h3>CI and Code Quality</h3>
 
 |Build|Cppcheck|Codacy|
