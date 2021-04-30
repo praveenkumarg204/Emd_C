@@ -1,5 +1,7 @@
 #include "user_utils.h"
 #include "ADC.h"
+#include "control.h"
+#include "timerpwm.h"
 
 
 unsigned volatile overflow;

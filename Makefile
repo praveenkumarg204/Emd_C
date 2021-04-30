@@ -3,9 +3,9 @@ BUILD_DIR = Build
 # All Source code files
 SRC = project_main.c\
 src/user_utils.c\
-src/Control.c\
+src/control.c\
 src/ADC.c\
-src/Timer_PWM.c
+src/timerpwm.c
 
 # All header file paths
 INC = -I inc
