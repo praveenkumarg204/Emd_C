@@ -26,7 +26,7 @@
 
 |Timer_PWM|
 |:--:|
-|![](simulation/Activity_3/Timer_PWM.PNG)|
+|![](simulation/Activity_3/Timer_PMW.PNG)|
 
 <h3>CI and Code Quality</h3>
 
