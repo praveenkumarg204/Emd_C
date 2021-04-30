@@ -8,7 +8,8 @@
 |:--:|
 |![](Timer_PMW.PNG)|
 
-```
+<h3>Code</h3>
+
   void Timer_PWM(){
 
     TCCR1A|=(1<<COM1A1)|(1<<WGM11)|(WGM10); // Timer1 with fast PWM mode
@@ -47,4 +48,4 @@
         OCR1A = 0; //0% output
         temperature = 0;
     }
-```
+
