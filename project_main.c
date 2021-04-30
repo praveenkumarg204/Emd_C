@@ -1,4 +1,13 @@
-#include "user_utils.h"
+/**
+ * @file project_main.c
+ * @author Praveen Kumar G
+ * @brief  final merged code
+ * @version 0.1
+ * @date 2021-04-30
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "ADC.h"
 #include "control.h"
 #include "timerpwm.h"
