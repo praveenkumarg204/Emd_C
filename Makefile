@@ -5,7 +5,8 @@ SRC = project_main.c\
 src/user_utils.c\
 src/control.c\
 src/ADC.c\
-src/timerpwm.c
+src/timerpwm.c\
+src/usart.c
 
 # All header file paths
 INC = -I inc

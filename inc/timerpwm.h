@@ -17,4 +17,6 @@
 #include "AVR.h"
 
 void Timer_PWM();
+char pwmout(uint16_t temp);
+
 #endif

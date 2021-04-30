@@ -1,5 +1,4 @@
-#ifndef __USER_UTILS_H__
-#define __USER_UTILS_H__
+
 /**
  * @file user_utils.h
  * @author Praveen Kumar G
@@ -10,6 +9,9 @@
  * @copyright Copyright (c) 2021
  * 
  */
+#ifndef __USER_UTILS_H__
+#define __USER_UTILS_H__
+
 #include "project_config.h"
 #include <util/delay.h>
 #include <avr/interrupt.h>
