@@ -10,7 +10,6 @@
 
 <h2>Code</h2>
 
-``` 
   void initUSART(uint16_t ubrreg_value)
   {
     UBRR0L = ubrreg_value;
@@ -23,6 +22,4 @@
   {
    UDR0 = temp_value;
   }
-  
-```
 
