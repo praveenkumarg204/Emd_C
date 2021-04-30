@@ -8,7 +8,7 @@
 |:--:|
 |![](Timer_PMW.PNG)|
 
-<h3>Code</h3>
+<h2>Code</h2>
 
   void Timer_PWM(){
 
