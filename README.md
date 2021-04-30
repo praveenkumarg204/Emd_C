@@ -16,7 +16,7 @@
 
 |ADC|
 |:--:|
-|![ON](simulation/Activity_1/ON.PNG)|
+|![ON](simulation/Activity_2/ADC.PNG)|
 
 <h1>Activity_3</h1>
 
