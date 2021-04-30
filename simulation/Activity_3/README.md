@@ -48,4 +48,4 @@
         OCR1A = 0; //0% output
         temperature = 0;
     }
-
+ }
